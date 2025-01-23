@@ -30,7 +30,7 @@ OMNI supports different [partitioning strategies](exo/topology/partitioning_stra
 
 ## Installation
 
-The current recommended way to install exo is from source.
+The current recommended way to install OMNI is from source.
 
 ### Prerequisites
 
